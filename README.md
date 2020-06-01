@@ -1,4 +1,4 @@
 Local Storage, Tutorial
 =============================
 
-https://local-storage-tutorial.herokuapp.com/index.html
+https://local-storage.now.sh/
